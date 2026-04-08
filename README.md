@@ -10,7 +10,7 @@ It enables users to monitor **key sales KPIs, revenue trends, and market perform
 
 ## 📸 Dashboard Preview
 
-
+![image alt](https://github.com/Aditya5Dwivedi/Data-Driven-Sales-Performance-Revenue-Insights-Dashboard/blob/2b92c643f4077bdc36b9ed41cff31f501c35070b/dashboard.png)
 
 *Interactive Power BI dashboard showing sales KPIs, market trends, customer profitability, and product-level insights.*
 
